@@ -5,3 +5,5 @@ test commit 4
 new test commit 5
 
 new test commit 6
+
+new test commit 7
